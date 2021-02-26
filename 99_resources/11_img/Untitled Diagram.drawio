@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T03:38:11.088Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="lGicZze693XaJHSE6mRy" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T04:14:39.128Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="L-V6_Oi-nekperuZRnDd" version="14.4.2" type="github">
   <diagram id="eIv0W7jmToX0OtYS6w2h" name="Page-1">
-    <mxGraphModel dx="1970" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1689" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1310,7 +1310,7 @@
         <mxCell id="8VEoWzWvntJiqpH7d6k4-336" value="&lt;font style=&quot;font-size: 16px&quot;&gt;CNN (&lt;font color=&quot;#ff0000&quot;&gt;in_channels&lt;/font&gt; = embedding_size &lt;font color=&quot;#ff0000&quot;&gt;x&lt;/font&gt; 2, out_channels=embedding_size)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#007FFF;gradientColor=none;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="140" y="500" width="1240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8VEoWzWvntJiqpH7d6k4-339" value="&lt;font style=&quot;font-size: 16px&quot;&gt;CNN(in_channels = embedding_size x 4) + Dense&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#007FFF;gradientColor=none;fillColor=#99CCFF;" parent="1" vertex="1">
+        <mxCell id="8VEoWzWvntJiqpH7d6k4-339" value="&lt;font style=&quot;font-size: 16px&quot;&gt;CNN(in_channels = embedding_size x 4, out_channels=embedding_size) + Dense&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#007FFF;gradientColor=none;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="140" y="1020" width="1240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8VEoWzWvntJiqpH7d6k4-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8VEoWzWvntJiqpH7d6k4-309" target="8VEoWzWvntJiqpH7d6k4-311" edge="1">
