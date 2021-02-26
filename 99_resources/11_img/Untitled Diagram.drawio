@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T02:00:08.629Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="tHjiCaaIniKYSA7UMCi0" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T02:00:14.076Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="1aCxYiMufJ52C6HyVteJ" version="14.4.2" type="github">
   <diagram id="eIv0W7jmToX0OtYS6w2h" name="Page-1">
     <mxGraphModel dx="1689" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1354,7 +1354,7 @@
             <mxPoint x="430" y="949.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F4wW99N8UC7I8AimI562-53" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;BiLSTM&lt;/b&gt; x 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#007FFF;gradientColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="F4wW99N8UC7I8AimI562-53" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;BiLSTM&lt;/b&gt; x 2:&amp;nbsp; input_size = embedding_size, hidden_size = embedding_size / 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#007FFF;gradientColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="1240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4wW99N8UC7I8AimI562-54" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Dropout&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#007FFF;gradientColor=none;fillColor=#99CCFF;" vertex="1" parent="1">
