@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T11:07:52.055Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="l_4w8nSm2pnpqp4dwQIJ" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T11:10:36.999Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dunNelWrrHGJ5tHNBA_b" version="16.2.2" type="github">
   <diagram id="VlddvBZ7y_0hIab4voik" name="Page-1">
     <mxGraphModel dx="2324" dy="3215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1404,6 +1404,9 @@
         </mxCell>
         <mxCell id="0pMEjqYekxcfD8_AW6o8-1120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontColor=#FF3333;strokeColor=#FF3333;strokeWidth=1;" edge="1" parent="0pMEjqYekxcfD8_AW6o8-1012" source="0pMEjqYekxcfD8_AW6o8-1118" target="0pMEjqYekxcfD8_AW6o8-1118">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0pMEjqYekxcfD8_AW6o8-1128" value="&lt;font color=&quot;#000000&quot;&gt;10/1000&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="0pMEjqYekxcfD8_AW6o8-1012">
+          <mxGeometry x="756" y="144" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0pMEjqYekxcfD8_AW6o8-1011" value="kernel = 3x3, filter = 512, padding = 1,&amp;nbsp;stride = &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;2&lt;/font&gt;&lt;/b&gt;, 1, 1, 1, imge= 7" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="0pMEjqYekxcfD8_AW6o8-1004">
           <mxGeometry x="79.99999999999997" y="18" width="360" height="20" as="geometry" />
