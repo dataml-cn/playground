@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T07:05:24.323Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="L_AaG0KXzLkC2712T6QL" version="20.3.0" type="github"><diagram id="6P0gh-akjHMjBcF6tn3q" name="第 1 页">7Vhdb5swFP01flwFmA/zCAnptGlau2raupeKBDegEYzAaZL++l0b850oWZUu1dQXdH3s63t9fI8TG+HJantdhHn8hUU0RYYWbRGeIsOwHQe+AthVgKXbFbAskqiC9Ba4S56pAjWFrpOIlr2BnLGUJ3kfXLAsowvew8KiYJv+sEeW9qPm4ZKOgLtFmI7RH0nE4wolhtPiH2myjOvIuu1WPauwHqxWUsZhxDYdCAcITwrGeGWtthOaCu5qXiq/2YHeJrGCZvwUh+B2+/DgJrdff91/Y/aUfGfPTx/ULE9hulYLRgFBxEGehwILEQ95RCBegLwpChzk+4hgtSC+q1kq2DqLqAikIexv4oTTuzxciN4NlAVgMV+l0NLBVCFpwen24Fr0hiGoLMpWlBc7GKIcDE2RqqpKd1R70+6RXhMfd/bHVlioymLZTN0yB4Yi7y+INPYQCfwR5PrCANp8bw+RgSm7/Jps/c1Ri7VLU4vH1A5JolnkCbFDa5GGZZks+rz0SaTbhP8U9pWlWvdqnLCn286w6a5uZLCUjpNo3nf7WjfZqv2qVGk0OmUG+wHLYetiQY9rlYfFkvJjpTje387+WXu2r8YKmoY8eeqnu29PVYQblsBCmvLBeFA+zqAsqmUqr+5xNZyIDCYyBhNVPIwmkiXWLPvlVWeOqu7zek4fUyiytyZRE19aotYLJVrCJvL/X7nGico135V7BuXao2L8xOYAXP631dQHwjVPFK75WsJ1/rFw9Y5sWxEfE25Ptq2KX1+45onCtS8qXGtQVUO9nSpcc/jXb3gCvLJwyQHhZm9OuJZuXVi47rtwzyFc8v6Lewbh1uroVKN+hQw7XAkpZvMyl7ur/SYlfFHgilsxseU1GO7DprwGz8TtN7AR0ZE3A+cUyPbnBVhLYRlX0nV0X4Y7tQ+2KVzhiu1q5uTmuxhqiIjkujGNa4EPp22QGsBVHBu5ROQBcVwNebbMbCJeRgCBS7wrb/OQAjHEMuDruyiYIX+C3CZ7IHM+CnQ4tFmFtkQ4MS2sdYpcS8wvng10YUAygjhLdmFJg4uIfFFwTflYY4tXB9+RiCeJGTJ0OJVuwtaVCuw60hPLVCzJgjU6bMo4zIW5CNOUrfnxUzmnRQJ1R4vW6aaF/JyVCU9YZqizoaxeBrHW6ZOHiu6c54hvxFc/Kbnj/2YG3nMY6C8446HZPvxVKmxfT3HwBw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-09T01:03:55.615Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wpBfzcI6OuTuJFCTSazK" version="20.3.0" type="github">
+  <diagram id="6P0gh-akjHMjBcF6tn3q" name="第 1 页">
+    <mxGraphModel dx="677" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-1" value="自动训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-2" value="创建训练任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EQx__9iQOZYRo6D8Uozv-1" target="EQx__9iQOZYRo6D8Uozv-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-4" value="Kubeflow" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EQx__9iQOZYRo6D8Uozv-2" target="EQx__9iQOZYRo6D8Uozv-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-6" value="Job 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EQx__9iQOZYRo6D8Uozv-4" target="EQx__9iQOZYRo6D8Uozv-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-8" value="Job n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="515" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EQx__9iQOZYRo6D8Uozv-4" target="EQx__9iQOZYRo6D8Uozv-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EQx__9iQOZYRo6D8Uozv-10" value="1.&amp;nbsp; k8s 集群信息&lt;br&gt;2. 任务资源4CPU + 8G + 2GPU&lt;br&gt;&lt;b&gt;3. 是否指定节点？&lt;/b&gt;&lt;br&gt;&lt;b&gt;4. 如何管理当前用户的资源&lt;br&gt;&lt;/b&gt;5.算法包" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.17;" parent="1" vertex="1">
+          <mxGeometry x="370" y="190" width="230" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
