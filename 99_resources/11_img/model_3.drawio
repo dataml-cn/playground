@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T12:04:04.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="N8k8SH6y_pmmU7LXRLJH" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T12:12:06.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="VkXImCWAGOuynfpaqs5q" version="21.0.8" type="github">
   <diagram name="第 1 页" id="b4Ed2LwabQIBzOSei9t2">
-    <mxGraphModel dx="794" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="378" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="178" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="166" width="80" height="54" as="geometry" />
+          <mxGeometry x="160" y="166" width="312.27" height="206.05" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-4" value="船自身属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-7">
           <mxGeometry width="80" height="30" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="80" y="300" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=60;arcSize=5;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-19">
-          <mxGeometry x="-8" y="-3.5" width="488" height="70" as="geometry" />
+          <mxGeometry x="-8" width="488" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-12" value="" style="group" vertex="1" connectable="0" parent="wm9mHPLaVxJcZAKre-H_-19">
           <mxGeometry x="80" width="90" height="63.00000000000001" as="geometry" />
@@ -216,6 +216,15 @@
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-32" value="&lt;font color=&quot;#ff8000&quot;&gt;M_U&lt;/font&gt;" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;strokeColor=none;imageWidth=24;imageHeight=24;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="291" y="375" width="60" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-93" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;strokeColor=#3333FF;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="128.62" y="230.87" width="70.75" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-96" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;strokeColor=#FF8000;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="56.67" y="296.32" width="201.84" height="27.47" as="geometry" />
+        </mxCell>
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-95" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;strokeColor=#00CC00;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="87.71" y="269.72" width="144.49" height="16.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
