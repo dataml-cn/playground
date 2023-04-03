@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T12:12:36.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="7kV_ratFBcV3QAJYk1iB" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T11:54:21.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="RmvJLwqANOLW91TxVOnE" version="21.0.8" type="github">
   <diagram name="第 1 页" id="b4Ed2LwabQIBzOSei9t2">
-    <mxGraphModel dx="378" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="548" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,20 +16,20 @@
         <mxCell id="wm9mHPLaVxJcZAKre-H_-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="166" width="312.27" height="206.05" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-4" value="船自身属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-7">
-          <mxGeometry width="80" height="30" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-4" value="Features of&amp;nbsp;Sailboat&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-7">
+          <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-5" value="&lt;font color=&quot;#ff0000&quot;&gt;区域属性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-7">
-          <mxGeometry x="4" y="24" width="60" height="30" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-5" value="&lt;font color=&quot;#ff0000&quot;&gt;Regional Factors&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-7">
+          <mxGeometry x="4" y="24" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="162" y="230" width="110" height="54" as="geometry" />
+          <mxGeometry x="162" y="230" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-9" value="船自身属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-8">
-          <mxGeometry width="80" height="30" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-9" value="Features of&amp;nbsp;Sailboat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-8">
+          <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-10" value="&lt;font color=&quot;#0000ff&quot;&gt;区域属性修正&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-8">
-          <mxGeometry x="7" y="24" width="106" height="30" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-10" value="&lt;font color=&quot;#3333ff&quot;&gt;Corrected Regional Factors&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-8">
+          <mxGeometry x="7" y="24" width="163" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-16" value="&lt;font color=&quot;#3333ff&quot;&gt;Europe&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="72" y="242" width="60" height="30" as="geometry" />
@@ -41,19 +41,19 @@
           <mxGeometry x="-8" width="488" height="66.5" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-12" value="" style="group" vertex="1" connectable="0" parent="wm9mHPLaVxJcZAKre-H_-19">
-          <mxGeometry x="80" width="90" height="63.00000000000001" as="geometry" />
+          <mxGeometry x="80" width="170" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-13" value="船自身属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-12">
-          <mxGeometry width="80" height="35" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-13" value="Features of&amp;nbsp;Sailboat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-12">
+          <mxGeometry x="8" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-14" value="&lt;font color=&quot;#00cc00&quot;&gt;区域属性修正&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-12">
-          <mxGeometry x="4" y="28" width="86" height="35" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-14" value="&lt;font color=&quot;#00cc00&quot;&gt;Corrected Regional Factors&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-12">
+          <mxGeometry x="4" y="32" width="166" height="35" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-17" value="&lt;font color=&quot;#00cc00&quot;&gt;Caribbean&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-19">
           <mxGeometry y="14" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-31" value="&lt;font color=&quot;#00cc00&quot;&gt;M_C&lt;/font&gt;" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;strokeColor=none;imageWidth=24;imageHeight=24;fillColor=none;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-19">
-          <mxGeometry x="212" y="10" width="60" height="51.83" as="geometry" />
+          <mxGeometry x="230" y="10" width="60" height="51.83" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-43" value="" style="group" vertex="1" connectable="0" parent="wm9mHPLaVxJcZAKre-H_-19">
           <mxGeometry x="320" y="14.333333333333334" width="60" height="35" as="geometry" />
@@ -90,18 +90,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-30" value="&lt;font color=&quot;#3333ff&quot;&gt;M_E&lt;/font&gt;" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;strokeColor=none;imageWidth=24;imageHeight=24;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="298" y="231" width="52" height="52" as="geometry" />
+          <mxGeometry x="314" y="231" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#3333FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="257" as="sourcePoint" />
-            <mxPoint x="293" y="257" as="targetPoint" />
+            <mxPoint x="280" y="257" as="sourcePoint" />
+            <mxPoint x="322" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="331" as="sourcePoint" />
-            <mxPoint x="293" y="331" as="targetPoint" />
+            <mxPoint x="280" y="331" as="sourcePoint" />
+            <mxPoint x="322" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-40" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -188,18 +188,18 @@
           <mxGeometry x="80" y="382" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="163" y="370" width="90" height="54" as="geometry" />
+          <mxGeometry x="163" y="370" width="160" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-22" value="船自身属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-21">
-          <mxGeometry width="80" height="30" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-22" value="Features of Sailboat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-21">
+          <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-23" value="&lt;font color=&quot;#ff8000&quot;&gt;区域属性修正&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-21">
-          <mxGeometry x="4" y="24" width="86" height="30" as="geometry" />
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-23" value="&lt;font color=&quot;#ff8000&quot;&gt;Corrected Regional Factors&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wm9mHPLaVxJcZAKre-H_-21">
+          <mxGeometry x="4" y="24" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wm9mHPLaVxJcZAKre-H_-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+        <mxCell id="wm9mHPLaVxJcZAKre-H_-36" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="397" as="sourcePoint" />
-            <mxPoint x="293" y="397" as="targetPoint" />
+            <mxPoint x="282" y="389" as="sourcePoint" />
+            <mxPoint x="322" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-32" value="&lt;font color=&quot;#ff8000&quot;&gt;M_U&lt;/font&gt;" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;strokeColor=none;imageWidth=24;imageHeight=24;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="291" y="375" width="60" height="56" as="geometry" />
+          <mxGeometry x="313" y="375" width="60" height="56" as="geometry" />
         </mxCell>
         <mxCell id="wm9mHPLaVxJcZAKre-H_-93" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;strokeColor=#3333FF;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="128.62" y="230.87" width="70.75" height="12" as="geometry" />
